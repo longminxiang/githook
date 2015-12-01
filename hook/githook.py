@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from flask import Flask
 import subprocess
-import time
 import os
 import sys
 
@@ -23,7 +22,7 @@ def home():
     return "hello world!"
 
 
-@app.route('/<pname>')
+@app.route('/<pname>', methods=['GET', 'POST'])
 def githook(pname):
     # 项目目录
     ppath = _GIT_DIR + pname
@@ -43,7 +42,6 @@ def githook(pname):
     else:
         # 不存在，clone
         subprocess.call(["git", "clone", conf.GIT_URL], cwd=ppath)
-    time.sleep(.1)
     return 'Thanks'
 
 if __name__ == '__main__':
