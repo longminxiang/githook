@@ -1,0 +1,1106 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rt",
+				"return	keyword"
+			],
+			[
+				"pa",
+				"path	module"
+			],
+			[
+				"str",
+				"string	statement"
+			],
+			[
+				"bran",
+				"brand_name"
+			],
+			[
+				"pay",
+				"pay_type	param"
+			],
+			[
+				"pay_ty",
+				"PAY_TYPE	statement"
+			],
+			[
+				"bi",
+				"bid_record	statement"
+			],
+			[
+				"oi",
+				"Oil	class"
+			],
+			[
+				"pb",
+				"pb_orders	statement"
+			],
+			[
+				"pb_",
+				"pb_orders	statement"
+			],
+			[
+				"pb_o",
+				"pb_orders"
+			],
+			[
+				"order",
+				"order_status_to_pb_order_status	function"
+			],
+			[
+				"bra",
+				"brand_to_pb_brand	function"
+			],
+			[
+				"all",
+				"all_price_type_to_pb_price_type	function"
+			],
+			[
+				"oil",
+				"oil_model_to_pb_oil_model	function"
+			],
+			[
+				"pri",
+				"PRICE_TYPE	statement"
+			],
+			[
+				"pboi",
+				"PBOilModel	statement"
+			],
+			[
+				"sta",
+				"status_id	param"
+			],
+			[
+				"orders",
+				"ORDER_STATUS	statement"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"pbget",
+				"PBGetGlobalInfoResponse	statement"
+			],
+			[
+				"al",
+				"all_pay_type_to_pb_pay_type	function"
+			],
+			[
+				"pb_b",
+				"pb_brands	statement"
+			],
+			[
+				"pbbr",
+				"PBOilBrand	statement"
+			],
+			[
+				"sub",
+				"sub_areas	statement"
+			],
+			[
+				"pb_su",
+				"pb_sub_areas	statement"
+			],
+			[
+				"area",
+				"area_to_pb_area	function"
+			],
+			[
+				"per",
+				"per_amount"
+			],
+			[
+				"get",
+				"get_random_string	function"
+			],
+			[
+				"id",
+				"idx"
+			],
+			[
+				"order_",
+				"order_pb2	module"
+			],
+			[
+				"crea",
+				"create_order	function"
+			],
+			[
+				"are",
+				"area_id	param"
+			],
+			[
+				"mo",
+				"money"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"mx",
+				"max_money"
+			],
+			[
+				"orderin",
+				"OrderInfoManager	class"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"orderg",
+				"OrderGroupManager	class"
+			],
+			[
+				"ti",
+				"timezone	module"
+			],
+			[
+				"max",
+				"max_money"
+			],
+			[
+				"yo",
+				"YoDiDi"
+			],
+			[
+				"or",
+				"ORDER_MODEL	statement"
+			],
+			[
+				"ch",
+				"choices	param"
+			],
+			[
+				"ord",
+				"ORDER_STATUS	statement"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"memb",
+				"Member	import"
+			],
+			[
+				"va",
+				"validate_password	statement"
+			],
+			[
+				"el",
+				"elif	keyword"
+			],
+			[
+				"par",
+				"param	statement"
+			],
+			[
+				"create_u",
+				"create_user_with_phone	function"
+			],
+			[
+				"no",
+				"None	keyword"
+			],
+			[
+				"co",
+				"code	statement"
+			],
+			[
+				"api",
+				"api_register_error	statement"
+			],
+			[
+				"res",
+				"response_data	statement"
+			],
+			[
+				"ma",
+				"manager	statement"
+			],
+			[
+				"baseap",
+				"BaseApiManager	class"
+			],
+			[
+				"dat",
+				"data_params	statement"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"base",
+				"base_params	statement"
+			],
+			[
+				"p",
+				"property	New Property"
+			],
+			[
+				"c",
+				"classmethod	class"
+			],
+			[
+				"cla",
+				"class	New Class"
+			],
+			[
+				"me",
+				"member	statement"
+			],
+			[
+				"mem",
+				"memberInfo	statement"
+			],
+			[
+				"member",
+				"memberInfo	statement"
+			],
+			[
+				"memberlo",
+				"MemberLoginResult	statement"
+			],
+			[
+				"exce",
+				"Exception	class"
+			],
+			[
+				"Member",
+				"MemberToken"
+			],
+			[
+				"key",
+				"keyword	statement"
+			],
+			[
+				"ta",
+				"tagId	statement"
+			],
+			[
+				"dy",
+				"dynastyId	statement"
+			],
+			[
+				"cat",
+				"cateId	statement"
+			],
+			[
+				"re",
+				"request	param"
+			],
+			[
+				"auth",
+				"authorName	statement"
+			],
+			[
+				"au",
+				"authorName	statement"
+			],
+			[
+				"ap",
+				"apps	module"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"deco",
+				"decodeRandBytes	function"
+			],
+			[
+				"ran",
+				"random	statement"
+			],
+			[
+				"ra",
+				"random	module"
+			],
+			[
+				"F",
+				"False	class"
+			],
+			[
+				"cl",
+				"cls_name"
+			],
+			[
+				"url",
+				"urls	statement"
+			],
+			[
+				"con",
+				"cons	statement"
+			],
+			[
+				"imp",
+				"import_string	function"
+			],
+			[
+				"val",
+				"valName"
+			],
+			[
+				"lab",
+				"Label	class"
+			],
+			[
+				"ge",
+				"get_func	statement"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"ss",
+				"ss_select"
+			],
+			[
+				"is",
+				"is_getting_poems"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"dict",
+				"dicts	statement"
+			],
+			[
+				"Poem",
+				"Poem	class"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"select",
+				"select2	module"
+			],
+			[
+				"po",
+				"poem_page	statement"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"C",
+				"CNAME"
+			],
+			[
+				"mi",
+				"Mission	import"
+			],
+			[
+				"mis",
+				"missionString	statement"
+			],
+			[
+				"missi",
+				"mission"
+			],
+			[
+				"miss",
+				"missionInfo	statement"
+			],
+			[
+				"filef",
+				"FieldFile	class"
+			],
+			[
+				"Debu",
+				"DEBUG	statement"
+			],
+			[
+				"Tui",
+				"TuiTuiNdkConfig_pb2	module"
+			],
+			[
+				"mid",
+				"mission_id"
+			],
+			[
+				"msg",
+				"msg_get_mission_ok	statement"
+			],
+			[
+				"md5",
+				"md5d	param"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"set",
+				"setattr	function"
+			],
+			[
+				"u",
+				"urls	import"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"_ch",
+				"_check_account_registerd	function"
+			],
+			[
+				"np",
+				"npassword	statement"
+			],
+			[
+				"ua",
+				"username"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"stri",
+				"stringNull	function"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"pass",
+				"password	param"
+			],
+			[
+				"em",
+				"EmailUser	class"
+			],
+			[
+				"ob",
+				"objsToDics	function"
+			],
+			[
+				"add",
+				"add_header	function"
+			],
+			[
+				"du",
+				"dumps	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docker-run.sh",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix",
+				"name": "docker-run.sh"
+			}
+		},
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/eric/GIT/YoDiDi_Server/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo/githookDemo/conf.py",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Unix",
+				"name": "conf.py"
+			}
+		},
+		{
+			"file": "hook/githook.py",
+			"settings":
+			{
+				"buffer_size": 1103,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo/MXPopover/conf.py",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py",
+			"settings":
+			{
+				"buffer_size": 59485,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eric/GIT/githook/demo/MXPopover/MXPopover/README.md",
+		"/Users/eric/GIT/githook/Dockerfile",
+		"/Users/eric/GIT/githook/hook/githook.py",
+		"/Users/eric/GIT/YoDiDi_Server/run_docker.sh",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi.sublime-project",
+		"/Users/eric/Desktop/timetest.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/settings.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/urls.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/order.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/pb/order.proto",
+		"/Users/eric/GIT/YoDiDi_Server/Dockerfile",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Global/models.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Global/admin.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/pb/global.proto",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/convert.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/api_global.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/decimal.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/pb/global_pb2.py",
+		"/Library/Python/2.7/site-packages/django/template/base.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/templates/supplier/widgets/datetable.html",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Bidding/admin.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Order/models.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/templates/supplier/exchange.html",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/templates/supplier/base_content.html",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/templates/supplier/start_bidding.html",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/static/adminLTE/bootstrap/css/bootstrap.min.css",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/templates/supplier/base.html",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Supplier/static/adminLTE/bootstrap/css/bootstrap.css",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/static/adminLTE/plugins/11/11.js",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/static/adminLTE/plugins/notificationFx/notificationFx.js",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/static/adminLTE/plugins/notificationFx/111t.css",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/run.sh",
+		"/Users/eric/GIT/docker_registry/ubuntu/Dockerfile",
+		"/Users/eric/GIT/docker_registry/python/Dockerfile",
+		"/Users/eric/GIT/docker_registry/django/Dockerfile",
+		"/Users/eric/GIT/docker_registry/django-mysql/Dockerfile",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/app/Member/models.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/base.py",
+		"/Library/Python/2.7/site-packages/django/core/exceptions.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/order.proto",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/member.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/member.proto",
+		"/Library/Python/2.7/site-packages/django/core/validators.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/Vendor/PhoneUser/models.py",
+		"/Library/Python/2.7/site-packages/django/contrib/admin/sites.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/base.proto",
+		"/Library/Python/2.7/site-packages/django/contrib/auth/models.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/encode.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/base64.py",
+		"/Users/eric/Desktop/pytest/test.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/member_pb2.py",
+		"/Users/eric/Desktop/pytest/TuiTuiNdkConfig.proto",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/protocol.py",
+		"/Users/eric/GIT/YoDiDi_Server/YoDiDi/YoDiDi/api/build_proto.sh",
+		"/Library/Python/2.7/site-packages/django/utils/timezone.py",
+		"/Library/Python/2.7/site-packages/django/contrib/auth/tokens.py",
+		"/Library/Python/2.7/site-packages/django/db/models/manager.py",
+		"/Library/Python/2.7/site-packages/django/db/models/__init__.py",
+		"/Library/Python/2.7/site-packages/django/db/models/base.py",
+		"/Users/eric/GIT/XGuWenKu/GuWenKu/GuWenKu/apps/Book/models.py",
+		"/Users/eric/GIT/sae_WYAPP/WYAPP.sublime-project",
+		"/Users/eric/GIT/XGuWenKu/Docker/Dockerfile",
+		"/Users/eric/GIT/YoDiDi/Podfile",
+		"/Users/eric/Downloads/车牌简称",
+		"/Users/eric/GIT/MXChat/MXChat.podspec",
+		"/Users/eric/Downloads/EmotionHelper.java",
+		"/Users/eric/GIT/XGuWenKu/GuWenKu.sublime-project",
+		"/Library/Python/2.7/site-packages/django/db/models/query_utils.py",
+		"/Library/Python/2.7/site-packages/django/db/models/lookups.py",
+		"/Library/Python/2.7/site-packages/django/db/models/query.py",
+		"/Users/eric/GIT/HiThere/Podfile",
+		"/Users/eric/Desktop/pytest/TuiEncode.py",
+		"/Users/eric/GIT/OuGong/Podfile",
+		"/Users/eric/GIT/XGuWenKu/GuWenKu/GuWenKu/apps/Poem/models.py",
+		"/Users/eric/GIT/XGuWenKu/GuWenKu/GuWenKu/settings.py",
+		"/Users/eric/GIT/XGuWenKu/GuWenKu/GuWenKu/templates/widgets/widget_search.html",
+		"/Users/eric/GIT/FaFaLa/FaFaLa/Images.xcassets/WelcomePic1.imageset/Contents.json",
+		"/Users/eric/GIT/MXStrongObject/MXStrongObject.podspec",
+		"/Users/eric/GIT/MXStrongObject/README.md",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/eric/GIT/MXURLConnection/MXURLConnection.podspec",
+		"/Users/eric/GIT/MXObjectParser/MXObjectParser.podspec",
+		"/Users/eric/GIT/FaFaLa/FaFaLa/Info.plist",
+		"/Users/eric/GIT/MXSqlite/MXSqlite.podspec",
+		"/Users/eric/GIT/FaFaLa/Podfile",
+		"/Users/eric/GIT/docker-django-uwsgi-nginx/Dockerfile",
+		"/Users/eric/GIT/docker-django-uwsgi-nginx/run.sh",
+		"/Users/eric/GIT/docker_registry/django/app/requirements.txt",
+		"/Users/eric/GIT/docker_ubuntu_zh/Dockerfile",
+		"/Users/eric/Downloads/新增接口.txt",
+		"/Users/eric/Downloads/FaFaLaConfig.proto",
+		"/Users/eric/Downloads/FafalaConfig.proto",
+		"/Users/eric/Desktop/xx.py",
+		"/Users/eric/GIT/MXVerticalTabBarController/MXVerticalTabBarController.podspec",
+		"/Users/eric/GIT/MXVerticalTabBarController/MXObjectParser.podspec",
+		"/Users/eric/GIT/MXVerticalTabBarController/MXChat.podspec",
+		"/Users/eric/Downloads/Json2Object/xxxx.h",
+		"/Users/eric/Desktop/资源搭配",
+		"/Users/eric/Desktop/OuGong/Podfile",
+		"/Users/eric/GIT/docker-django-uwsgi-nginx/supervisord.conf",
+		"/Users/eric/Desktop/djangoapp/conf/supervisord.conf",
+		"/Users/eric/Desktop/django-nginx-mysql/Dockerfile",
+		"/Users/eric/Desktop/django-nginx-mysql/dnm.sublime-project",
+		"/Users/eric/GIT/docker-django-uwsgi-nginx/app/requirements.txt",
+		"/Users/eric/Documents/Kitematic/docker-django-uwsgi-nginx/opt/django/app/requirements.txt",
+		"/Users/eric/Documents/Kitematic/django-uwsgi-nginx/opt/django/app/website/views.py",
+		"/Users/eric/Documents/Kitematic/django-uwsgi-nginx/opt/django/app/website/urls.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/views/urls.py",
+		"/Users/eric/GIT/MXChat/MXChatDemo/Podfile",
+		"/Users/eric/GIT/EGOCache/EGOCache.podspec",
+		"/Users/eric/Desktop/DateTest/Podfile",
+		"/Users/eric/GIT/MXChat/MXChatDemo/Pods/MBProgressHUD/MBProgressHUD.podspec",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/apps/Poem/admin.py",
+		"/Users/eric/Projects/PelicanBlog/PelicanBlog.sublime-project",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/Vendor/search_select_widget/options.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/Vendor/search_select_widget/widgets.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/static/back_end/js/search_input.js",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/Widgets/__init__.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/Vendor/search_select_widget/static/js/search_input.js",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/Vendor/search_select_widget/__init__.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/static/back_end/js/guwenku.js",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/urls.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/apps/Book/models.py",
+		"/Library/Python/2.7/site-packages/django/db/models/sql/query.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/settings.py",
+		"/Library/Python/2.7/site-packages/django/utils/module_loading.py",
+		"/Users/eric/Projects/GuWenKu/Code/GuWenKu/GuWenKu/views/views.py",
+		"/Library/Python/2.7/site-packages/django/apps/config.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\\"",
+			"\"",
+			"\\",
+			"params_filter",
+			"create_pay_info",
+			"create_direct_pay_by_user",
+			"bidding_model",
+			"model",
+			"order_model",
+			"modal_tips",
+			"bidding_tips",
+			"modal",
+			"bidding_amount_error",
+			"bidding_money",
+			"amount_inpu",
+			"amount_input",
+			"print",
+			"getpoems",
+			"NSAppTransportSecurity",
+			"build_filter",
+			"filter",
+			"PDPoemSelect",
+			"cover",
+			"_check_account_exist",
+			"EmailUser",
+			"BaseModel",
+			"Request",
+			"urlopen",
+			"ToDics",
+			"housesToDics",
+			"bootstrap2_theme",
+			"BaseAdminView",
+			"objsToDics",
+			"field_img",
+			"queryset",
+			"self.storage",
+			"default_storage",
+			"convert",
+			"encoding",
+			"hashlib",
+			"MXConvert",
+			"space",
+			"% if luatex or xetex",
+			"objc_out"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\\"",
+			"",
+			"cpp_out"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docker-run.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"auto_name": "docker-run.sh",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/eric/GIT/YoDiDi_Server/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "demo/githookDemo/conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								13
+							]
+						],
+						"settings":
+						{
+							"auto_name": "conf.py",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "hook/githook.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								688,
+								688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "demo/MXPopover/conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20894,
+								20897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11370.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "githook.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
