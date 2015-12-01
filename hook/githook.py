@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from flask import Flask
 import subprocess
 import time
@@ -8,16 +9,13 @@ app = Flask(__name__)
 
 _GIT_DIR = "/home/git/"
 _CONF_NAME = "conf"
+_SSH_ROOT = "/root/.ssh"
 
 
-def _conf_module(path):
+def _import_conf_module(path):
     if not path in sys.path:
         sys.path.append(path)
-    if not _CONF_NAME in sys.modules:
-        return __import__(_CONF_NAME)
-    else:
-        eval('import ' + _CONF_NAME)
-        return eval('reload(%s)' % _CONF_NAME)
+    return __import__(_CONF_NAME)
 
 
 @app.route('/')
@@ -27,20 +25,25 @@ def home():
 
 @app.route('/<pname>')
 def githook(pname):
+    # 项目目录
     ppath = _GIT_DIR + pname
     if not os.path.exists(ppath):
         return "no project path"
+    # 导入conf模块
+    conf = _import_conf_module(ppath)
+    # 设置ssh
+    if conf.RSA_PATH:
+        subprocess.call(["mkdir", _SSH_ROOT], cwd=ppath)
+        subprocess.call(["cp", conf.RSA_PATH, _SSH_ROOT], cwd=ppath)
+    # git目录
     gpath = ppath + "/" + pname
     if os.path.exists(gpath):
-        subprocess.Popen(['git ' 'pull'], cwd=gpath, shell=True)
-        time.sleep(.1)
+        # 如果存在项目，pull
+        subprocess.call(["git", "pull"], cwd=gpath)
     else:
-        cpath = ppath + "/" + _CONF_NAME + ".py"
-        if not os.path.exists(cpath):
-            return "no config file"
-        conf = _conf_module(ppath)
-        subprocess.Popen("git clone %s" % conf.GIT_URL, cwd=ppath, shell=True)
-        time.sleep(.1)
+        # 不存在，clone
+        subprocess.call(["git", "clone", conf.GIT_URL], cwd=ppath)
+    time.sleep(.1)
     return 'Thanks'
 
 if __name__ == '__main__':
