@@ -6,31 +6,12 @@ git hook with docker
 
 ###1.build Dockerfile
 	
-	docker build -t eric/githook .
+	sh run_docker build
 	
 
-###2.run
+###2.dev or release
 	
-	docker rm -f githook
-	docker run --name githook -p 12852:5000 -d -v ~/GIT:/home/git eric/githook
-	
-###3.setting
-
-	cd ~/GIT
-	make files like demo's
-	
-####3.1 config conf.py
-
-	//your git ssh url
-	GIT_URL = "git@git.coding.net:ericlung/EricSite.git"
-
-	//rsa name if use ssh auth
-	RSA_PATH = "id_rsa"
-
-####3.2 id_rsa
-
-	ssh-keygen -t rsa -C xx@xx.com
-
-###4.add webhook to git project
-
-	http://xxx.xx:12852/your_project_name
+	dev:
+	sh run_docker dev
+	release:
+	sh run_docker rls

@@ -22,11 +22,10 @@ class ProjectInfo(models.Model):
     is_active = models.BooleanField(default=True, verbose_name='是否激活')
 
     @property
-    def project_dir(self):
-        if self.project_path[-1] == '/':
-            return self.project_path + self.name
-        else:
-            return self.project_path + '/' + self.name
+    def git_host(self):
+        host = self.git_url.split('@')[1]
+        host = host.split(':')[0]
+        return host
 
     def __unicode__(self):
         return self.name
