@@ -1,0 +1,32 @@
+com:
+    image: eric/githook
+    volumes:
+    - ./opt:/opt
+    - ./GitHook:/home/GitHook
+    external_links:
+    - mysql_mysql_1:mysql1
+
+dev:
+    extends:
+        service: com
+    ports:
+    - "31003:8000"
+    environment:
+    - DJANGO_RELEASE=0
+    - DJANGO_DEBUG=1
+
+pro:
+    extends:
+        service: com
+    ports:
+    - "31004:8888"
+    environment:
+    - DJANGO_RELEASE=1
+    - DJANGO_DEBUG=1
+
+rls:
+    extends:
+        service: com
+    environment:
+    - DJANGO_RELEASE=1
+    - DJANGO_DEBUG=0

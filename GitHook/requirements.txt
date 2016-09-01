@@ -1,0 +1,5 @@
+django==1.8.6
+uwsgi
+Pillow
+django-imagekit
+django-debug-toolbar

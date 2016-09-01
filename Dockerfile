@@ -1,16 +1,15 @@
-FROM index.alauda.cn/ericlung/python
+FROM longminxiang/centos7
 
-COPY ./hook /home/hook
+MAINTAINER Eric Lung <longminxiang@163.com>
 
-RUN (apt-get update &&\ 
-apt-get --yes --force-yes install git &&\
-pip install flask &&\
-cd /etc/ssh &&\
-cp ssh_config ssh_config_backup &&\
-echo "    StrictHostKeyChecking no\n"\
->> ssh_config)
+RUN (yum -y install MySQL-python git gcc libjpeg-turbo-devel libpng-devel &&\
+yum clean all)
 
-VOLUME ["/home/hook"]
-VOLUME ["/home/git"]
-EXPOSE 5000
-CMD ["python", "/home/hook/githook.py"]
+COPY ./GitHook/requirements.txt /home/GitHook/
+COPY ./opt /opt
+
+RUN (pip install -r /home/GitHook/requirements.txt)
+
+RUN (sed -i '2 s/^/python \/opt\/conf.py\n/' /run.sh)
+
+EXPOSE 8888
